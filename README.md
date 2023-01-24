@@ -1,0 +1,2 @@
+# obojetnie
+kartkowka
